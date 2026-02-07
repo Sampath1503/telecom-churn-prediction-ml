@@ -207,7 +207,7 @@ This dashboard would typically be used **before** deploying predictive models.
 
 ## 🔹 Author
 
-**Chintu**
+**Sampath**
 Data Science & Analytics
 Project: Telecom Customer Churn Analysis
 
