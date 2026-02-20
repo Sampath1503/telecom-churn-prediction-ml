@@ -229,6 +229,14 @@ telecom-churn-portfolio/
 
 ---
 
+## 📊 Project Presentation
+
+Comprehensive slide deck covering data analysis, predictive modeling, automation workflow, and business strategy.
+
+📄 [View Full Presentation](presentations/telecom_churn_analytics_prediction.pdf)
+
+---
+
 ## 🔮 Future Enhancements
 
 * Drift monitoring
