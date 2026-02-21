@@ -269,5 +269,5 @@ Comprehensive slide deck covering data analysis, predictive modeling, automation
 * Focused on production-ready ML systems and business analytics
 ## Contact
 
-LinkedIn: https://linkedin.com/in/your-profile  
-Email: yourprofessionalemail@gmail.com
+LinkedIn: www.linkedin.com/in/sampath-kumar-panthagani-2147a6250 
+Email: sampath967610@gmail.com
